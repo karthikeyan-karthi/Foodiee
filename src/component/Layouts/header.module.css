@@ -1,0 +1,39 @@
+.header{
+    position: fixed;
+    top: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #B02E0C;
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    padding: 0 10%;
+    color: white;
+
+}
+
+.header h1{
+    font-size: 50px;
+    background: linear-gradient(rgb(255, 255, 255),rgb(126, 72, 72));
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.img{
+    width: 100%;
+    height: 25rem;
+    z-index: 0;
+    overflow: hidden;
+    
+}
+
+.img img{
+    width: 110%;
+    height: 100%;
+    object-fit: cover;
+    transform: rotateZ(-5deg) translateY(-4rem) translateX(-1rem);
+
+}
