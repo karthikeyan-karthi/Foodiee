@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Foodiee/static/css/main.2ae425cf.css",
+    "main.js": "/Foodiee/static/js/main.d0dbcae0.js",
+    "static/js/787.866d6774.chunk.js": "/Foodiee/static/js/787.866d6774.chunk.js",
+    "static/media/pexels-pixabay-461198.jpg": "/Foodiee/static/media/pexels-pixabay-461198.c67ca87ef6557ccdf448.jpg",
+    "index.html": "/Foodiee/index.html",
+    "main.2ae425cf.css.map": "/Foodiee/static/css/main.2ae425cf.css.map",
+    "main.d0dbcae0.js.map": "/Foodiee/static/js/main.d0dbcae0.js.map",
+    "787.866d6774.chunk.js.map": "/Foodiee/static/js/787.866d6774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae425cf.css",
+    "static/js/main.d0dbcae0.js"
+  ]
+}
